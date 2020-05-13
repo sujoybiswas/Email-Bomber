@@ -25,8 +25,9 @@ print '            #       Only for Educational Purposes !!        #       '
 print '            #                                               #       '
 print '            #################################################       '
 
-print '                                                                   '
+print '             https://github.com/sujoybiswas/Email_Bomber.get                                                              '
 
+print '             Email: sujoysunder.sb2001@gmail.com
 
 print '                                           '
 
